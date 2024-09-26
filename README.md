@@ -8,4 +8,4 @@ This project analyzes the music playlist database. we can examine the dataset wi
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]("https://github.com/ak8415129/")
+![MusicDatabaseSchema]("https://github.com/ak8415129/SQL-music_store-data-analysis/blob/main/MusicDatabaseSchema.png")
